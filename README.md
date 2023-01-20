@@ -1,5 +1,5 @@
 # Landing Page Project
-This project is build as a First Project for Udacity's Front End Nanodegree program.
+This project was built as the first Project in Front End Nanodegree program on Udacity.
 
 # Table of Contents
 
